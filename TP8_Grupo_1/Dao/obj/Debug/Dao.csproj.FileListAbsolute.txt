@@ -1,0 +1,9 @@
+C:\Users\nicol\Desktop\TP8prog3\TP8_Grupo_1\Dao\bin\Debug\Dao.dll
+C:\Users\nicol\Desktop\TP8prog3\TP8_Grupo_1\Dao\bin\Debug\Dao.pdb
+C:\Users\nicol\Desktop\TP8prog3\TP8_Grupo_1\Dao\bin\Debug\Entidades.dll
+C:\Users\nicol\Desktop\TP8prog3\TP8_Grupo_1\Dao\bin\Debug\Entidades.pdb
+C:\Users\nicol\Desktop\TP8prog3\TP8_Grupo_1\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\TP8prog3\TP8_Grupo_1\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\TP8prog3\TP8_Grupo_1\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\nicol\Desktop\TP8prog3\TP8_Grupo_1\Dao\obj\Debug\Dao.dll
+C:\Users\nicol\Desktop\TP8prog3\TP8_Grupo_1\Dao\obj\Debug\Dao.pdb
